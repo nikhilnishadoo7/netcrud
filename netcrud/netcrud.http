@@ -1,0 +1,6 @@
+@netcrud_HostAddress = http://localhost:5223
+
+GET {{netcrud_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
